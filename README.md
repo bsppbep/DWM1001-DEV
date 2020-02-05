@@ -17,22 +17,22 @@ Pour fonctionner, la carte DWM1001-DEV a besoin d'être flashée.
 
 * Interface SWD, fréquence 1000 kHz, "OK"
 
-![JFlashLite](docs/source/img/JFlashLite1.png)
+![JFlashLite](docs/img/JFlashLite1.png)
 
 * Selectionner le data file ```DWM1001_DWM1001-DEV_MDEK1001_Sources_and_Docs_v9/DWM1001/Factory_Firmware_Image/DWM1001_PANS_R2.0.hex```
 
-![JFlashLite](docs/source/img/JFlashLite2.png)
+![JFlashLite](docs/img/JFlashLite2.png)
 
 * Brancher la DWM1001-DEV.
 
-![JFlashLite](docs/source/img/DWM1001_DEV_plugged.png)
+![JFlashLite](docs/img/DWM1001_DEV_plugged.png)
 
 * Cliquer sur "Program Ship"
 
-![JFlashLite](docs/source/img/JFlashLite3.png)
+![JFlashLite](docs/img/JFlashLite3.png)
 
 La carte est flashée, les LEDs ont du changer de couleur. Vous pouvez la débrancher.
 
-![JFlashLite](docs/source/img/DWM1001_DEV_flashed.png)
+![JFlashLite](docs/img/DWM1001_DEV_flashed.png)
 
 
