@@ -25,7 +25,7 @@ Pour fonctionner, la carte DWM1001-DEV a besoin d'être flashée.
 
 * Brancher la DWM1001-DEV.
 
-![JFlashLite](docs/img/DWM1001-DEV_plugged.png)
+![JFlashLite](docs/img/DWM1001-DEV_flashed.png)
 
 * Cliquer sur "Program Ship"
 
@@ -33,6 +33,6 @@ Pour fonctionner, la carte DWM1001-DEV a besoin d'être flashée.
 
 La carte est flashée, les LEDs ont du changer de couleur. Vous pouvez la débrancher.
 
-![JFlashLite](docs/img/DWM1001-DEV_flashed.png)
+![JFlashLite](docs/img/DWM1001-DEV_plugged.png)
 
 
