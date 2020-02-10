@@ -1,5 +1,8 @@
 ressources/local_settings
 
+#User of vscode
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
