@@ -1,9 +1,9 @@
 # DWM1001-DEV
 
 
-# Installation
+## Installation
 
-## Flasher la DWM1001-DEV
+### Flasher la DWM1001-DEV
 
 Pour fonctionner, la carte DWM1001-DEV a besoin d'être flashée. 
 
@@ -36,9 +36,9 @@ La carte est flashée, les LEDs ont du changer de couleur.
 ![JFlashLite](docs/img/DWM1001-DEV_plugged.png)
 
 
-## Configurer la DWM1001-DEV
+### Configurer la DWM1001-DEV
 
-La carte peut être configurer de 3 manières différentes : 
+La carte peut être configurée de 3 manières différentes : 
 - en *anchor* : une balise fixe, dont on va configurer la position.
 - en *initiator* : un anchor qui va "initier" le réseau, il en faut au minimum 1.
 - en *tag* : une balise mobile, celle qu'on veut localiser
